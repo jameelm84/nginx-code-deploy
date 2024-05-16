@@ -1,4 +1,2 @@
-Install dependencies:
 #!/bin/bash
-yum install -y nginx
-rm -f /usr/share/nginx/html/index.html
+yum install -y httpd
